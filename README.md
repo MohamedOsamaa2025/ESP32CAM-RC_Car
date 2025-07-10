@@ -1,3 +1,3 @@
 # ESP32CAM-RC_Car
 
-![Screenshot 2025-07-09 031728](https://github.com/user-attachments/assets/82f0240a-f576-4ac5-aaf0-4f9c0efdba99)
+![image](https://github.com/user-attachments/assets/6b9d5c40-0625-468b-8c8a-80a1e2ed76f2)
